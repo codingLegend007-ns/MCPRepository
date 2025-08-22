@@ -1,5 +1,3 @@
 This is test file and i am updating the text to know the working of MCP.
-
 Again updated the text file for the testing purpose.
-
-So we can test for all data changes in git repo.
+So we can test for all data.
